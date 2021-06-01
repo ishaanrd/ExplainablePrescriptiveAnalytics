@@ -1,4 +1,4 @@
-# Explainable Prescriptive Analytics
+# Explainable Prescriptive Analytics for Customer Journey and Process Mining
 
 Process mining is the collection of granular event level data in order to infer the sequence and structure of the flow of events. With the proliferation of internet and digitalization, process mining can be applied to nearly any domain where it is possible to record any data, primarily for analytical applications, such as monitoring and auditing. Further, this enables process analysts to build better, more accurate models of the event data, and make predictions based on these models. This framework of monitoring and predicting has been quite successful in the recent past but has its own limitations in being able to take the following steps of making decisions and implementing actions. 
 
